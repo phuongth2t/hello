@@ -2,7 +2,7 @@
 int main()
 {
     int a;
-    a=2;
+    a=3;
     printf("in ra\n");
     return 0;
 }
